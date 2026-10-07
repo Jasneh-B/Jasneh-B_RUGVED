@@ -3,4 +3,11 @@
 Task 1 - Completed  
 Task 2 - Completed  
 Git CLI - Completed  
-TaskReview- 07/09/2026
+TaskReview - 07/09/2026
+
+Task 3 - Completed
+Task 4 - Completed
+TaskReview - 15/09/2026
+
+Task 5 - Completed
+TaskReview - 08/10/2026
