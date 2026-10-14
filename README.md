@@ -12,6 +12,6 @@ TaskReview - 15/09/2026
 Task 5 - Completed  
 TaskReview - 09/10/2026  
 
-Task 6 - Completed
-TaskMidWayCheck - 12/10/2026
-TaskReview - 15/10/2026
+Task 6 - Completed  
+TaskMidWayCheck - 12/10/2026  
+TaskReview - 15/10/2026  
